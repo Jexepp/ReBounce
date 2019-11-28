@@ -1,0 +1,22 @@
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.exe
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.deps.json
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.runtimeconfig.json
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.runtimeconfig.dev.json
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.dll
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.pdb
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\obj\Debug\netcoreapp3.0\GettingRealConsoleApp.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\obj\Debug\netcoreapp3.0\GettingRealConsoleApp.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\obj\Debug\netcoreapp3.0\GettingRealConsoleApp.AssemblyInfo.cs
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\obj\Debug\netcoreapp3.0\GettingRealConsoleApp.dll
+C:\Users\andre\source\repos\GettingRealConsoleApp\GettingRealConsoleApp\obj\Debug\netcoreapp3.0\GettingRealConsoleApp.pdb
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.exe
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.deps.json
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.runtimeconfig.json
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.runtimeconfig.dev.json
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.dll
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\bin\Debug\netcoreapp3.0\GettingRealConsoleApp.pdb
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\obj\Debug\netcoreapp3.0\GettingRealConsoleApp.csprojAssemblyReference.cache
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\obj\Debug\netcoreapp3.0\GettingRealConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\obj\Debug\netcoreapp3.0\GettingRealConsoleApp.AssemblyInfo.cs
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\obj\Debug\netcoreapp3.0\GettingRealConsoleApp.dll
+C:\Users\Rerup\Desktop\Team 9 Programmering\Projekt-Rebounce\GettingRealConsoleApp\GettingRealConsoleApp\obj\Debug\netcoreapp3.0\GettingRealConsoleApp.pdb

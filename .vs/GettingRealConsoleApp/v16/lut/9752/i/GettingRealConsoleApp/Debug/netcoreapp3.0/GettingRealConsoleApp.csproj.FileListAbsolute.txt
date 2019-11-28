@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\GettingRealConsoleApp\.vs\GettingRealConsoleApp\v16\lut\0\b\GettingRealConsoleApp\Debug\netcoreapp3.0\GettingRealConsoleApp.exe
+C:\Users\andre\source\repos\GettingRealConsoleApp\.vs\GettingRealConsoleApp\v16\lut\0\b\GettingRealConsoleApp\Debug\netcoreapp3.0\GettingRealConsoleApp.deps.json
+C:\Users\andre\source\repos\GettingRealConsoleApp\.vs\GettingRealConsoleApp\v16\lut\0\b\GettingRealConsoleApp\Debug\netcoreapp3.0\GettingRealConsoleApp.runtimeconfig.json
+C:\Users\andre\source\repos\GettingRealConsoleApp\.vs\GettingRealConsoleApp\v16\lut\0\b\GettingRealConsoleApp\Debug\netcoreapp3.0\GettingRealConsoleApp.runtimeconfig.dev.json
+C:\Users\andre\source\repos\GettingRealConsoleApp\.vs\GettingRealConsoleApp\v16\lut\0\b\GettingRealConsoleApp\Debug\netcoreapp3.0\GettingRealConsoleApp.dll
+C:\Users\andre\source\repos\GettingRealConsoleApp\.vs\GettingRealConsoleApp\v16\lut\0\i\GettingRealConsoleApp\Debug\netcoreapp3.0\GettingRealConsoleApp.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\GettingRealConsoleApp\.vs\GettingRealConsoleApp\v16\lut\0\i\GettingRealConsoleApp\Debug\netcoreapp3.0\GettingRealConsoleApp.AssemblyInfo.cs
+C:\Users\andre\source\repos\GettingRealConsoleApp\.vs\GettingRealConsoleApp\v16\lut\0\i\GettingRealConsoleApp\Debug\netcoreapp3.0\GettingRealConsoleApp.csproj.CopyComplete
+C:\Users\andre\source\repos\GettingRealConsoleApp\.vs\GettingRealConsoleApp\v16\lut\0\i\GettingRealConsoleApp\Debug\netcoreapp3.0\GettingRealConsoleApp.dll
+C:\Users\andre\source\repos\GettingRealConsoleApp\.vs\GettingRealConsoleApp\v16\lut\0\i\GettingRealConsoleApp\Debug\netcoreapp3.0\GettingRealConsoleApp.csprojAssemblyReference.cache
