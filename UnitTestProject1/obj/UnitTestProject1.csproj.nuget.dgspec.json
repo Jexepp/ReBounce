@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\UnitTestProject1\\UnitTestProject1.csproj": {}
+    "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\UnitTestProject1\\UnitTestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\GettingRealConsoleApp\\GettingRealConsoleApp.csproj": {
+    "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\GettingRealConsoleApp\\GettingRealConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\GettingRealConsoleApp\\GettingRealConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\GettingRealConsoleApp\\GettingRealConsoleApp.csproj",
         "projectName": "GettingRealConsoleApp",
-        "projectPath": "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\GettingRealConsoleApp\\GettingRealConsoleApp.csproj",
+        "projectPath": "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\GettingRealConsoleApp\\GettingRealConsoleApp.csproj",
         "packagesPath": "C:\\Users\\jtrue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\GettingRealConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\GettingRealConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\UnitTestProject1\\UnitTestProject1.csproj": {
+    "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\UnitTestProject1\\UnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\UnitTestProject1\\UnitTestProject1.csproj",
         "projectName": "UnitTestProject1",
-        "projectPath": "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectPath": "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\UnitTestProject1\\UnitTestProject1.csproj",
         "packagesPath": "C:\\Users\\jtrue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\UnitTestProject1\\obj\\",
+        "outputPath": "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\UnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\GettingRealConsoleApp\\GettingRealConsoleApp.csproj": {
-                "projectPath": "C:\\Users\\jtrue\\Desktop\\ReBounce\\Projekt-Rebounce\\GettingRealConsoleApp\\GettingRealConsoleApp\\GettingRealConsoleApp.csproj"
+              "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\GettingRealConsoleApp\\GettingRealConsoleApp.csproj": {
+                "projectPath": "C:\\Users\\jtrue\\Desktop\\C# Projekter\\ReBounce\\GettingRealConsoleApp\\GettingRealConsoleApp.csproj"
               }
             }
           }

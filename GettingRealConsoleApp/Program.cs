@@ -18,11 +18,20 @@ namespace GettingRealConsoleApp
             receiptRepo.AddHardCode();
             userRepo.AddHardCode();
 
-            //Testkommentar!!!
-
             Console.WriteLine("Rebounce");
             Console.WriteLine("Vælg:\n 1) Kvitteringer\n 2) Brugere\n 3) Partnere\n 4) Puljer\n\nAfslut med enter.");
             int command = int.Parse(Console.ReadLine());
+
+            /*
+             * Test
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             * 
+             */
 
             switch (command)
             {
